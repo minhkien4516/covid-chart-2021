@@ -1,5 +1,9 @@
 .App {
   text-align: center;
+  text-size-adjust: 24px;
+  text-rendering: auto;
+  font-size: 24px;
+  font-display: bold;
 }
 
 .App-logo {
